@@ -43,6 +43,7 @@ To retrieve the latest version of this theme, simply run
 
 ```shell
 hugo mod get -u
+hugo mod tidy
 ```
 
 ## "Fork"
