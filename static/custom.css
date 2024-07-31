@@ -2,11 +2,8 @@
 .gdoc-brand__img {
     width: auto;
 }
-
-.gdoc-header{
-  background: rgb(65, 134, 201);
-  color: var(--header-font-color);
-  border-bottom: .3em solid var(--footer-background);
+.gdoc-header {
+    height: 68px;
 }
 
 .gdoc-nav__entry:hover, .gdoc-nav__entry.is-active {
