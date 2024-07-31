@@ -4,7 +4,7 @@
 }
 
 .gdoc-header{
-  background: rgb(32, 83, 117);
+  background: rgb(65, 134, 201);
   color: var(--header-font-color);
   border-bottom: .3em solid var(--footer-background);
 }
