@@ -2,6 +2,9 @@
 .gdoc-brand__img {
     width: auto;
 }
+.gdoc-header {
+    height: 68px;
+}
 
 .gdoc-nav__entry:hover, .gdoc-nav__entry.is-active {
     text-decoration: none;
