@@ -53,3 +53,4 @@ pagination_page_next: next
 pagination_page_state: "{{ .PageNumber }}/{{ .TotalPages }}"
 
 custom_product_of_cybertec: A product of CYBERTEC
+custom_support_button: Support
