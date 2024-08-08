@@ -21,3 +21,9 @@ blockquote {
     /* background: red;
     color: #000; */
 }
+
+
+/* Shade the `A product of CYBERTEC` */
+.gdoc-page__nav__product {
+    color: #888;
+}
