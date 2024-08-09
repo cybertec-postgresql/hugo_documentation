@@ -92,7 +92,7 @@
     src: url("fonts/SourceCodePro.ttf") format('truetype');
 }
 
-html, .gdoc-header {
+html, body, .gdoc-header {
     font-family: "Roboto", sans-serif;
 }
 
