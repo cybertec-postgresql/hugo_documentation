@@ -37,6 +37,13 @@ Fetch the module
 hugo mod get -u
 ```
 
+Build your page
+```shell
+hugo --minify
+# You may optionally overwrite the `baseURL`
+hugo --minify -b "/docs/"
+```
+
 ## Update
 
 To retrieve the latest version of this theme, simply run
