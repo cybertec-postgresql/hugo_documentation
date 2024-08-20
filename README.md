@@ -22,10 +22,13 @@ Initialize the site as a go module:
 hugo mod init github.com/cybertec-postgresql/<repository-name>
 ```
 
-Add this repository as a dependency into your `hugo.toml`:
+Add the following to your `hugo.toml` to use this theme, including functional code-highlighting:
 
 ```toml
 # hugo.toml
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
 [module]
 [[module.imports]]
 path = 'github.com/cybertec-postgresql/hugo_documentation'
